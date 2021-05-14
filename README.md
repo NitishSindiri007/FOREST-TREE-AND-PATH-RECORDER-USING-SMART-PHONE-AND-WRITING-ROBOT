@@ -3,10 +3,12 @@ In this project the moving path covered by the user in forests area is recorded 
 
 ![GitHub Logo](/Images/usecase.PNG)
 
-## Introduction
+## Modules Description
 
-Speech inputs are the most vital aspect for establishing communication between humans. 90% of communication uses voice mode for interacting with others. Large availability of good quality microphones help in transforming the speech signals to electrical form. Speech recognition algorithm, techniques can able to convert the speech inputs into text. Many external api are available to convert the speech to text with reliable outputs. The speech based robotic control is a current research area in which several organization are innovating new robots and automation systems to provide effective user experience. The most common research areas are car automation, healthcare, military and defense, education, surveillance, drones, home automation in which robotics have a major role to play. 
+Interfacing Bluetooth Module
 
-As we evolve in the emergence, revolution of automation, robotics getting adopted in different sectors. Automation, robotics are used to increase production, reduce human errors and efficiency. In the past years, several sectors have adopted robotics where humans feel difficult to monitor. Several industries have adopted automation, unmanned systems, and different types of robot to improvise the production with less defects. In general, a robot is nothing but a mechanical based embedded model designed with program in build to perform a respective functionality. As new technologies are emerging every day, advancement in robotics is demanding. Several research in new ideas, design, and optimization are happening across the globe to increase living standard and move towards the smart city concept.  
+Voice Recognition
 
-Writing robot working methodology invokes smart phone and robotic model. The end user can able to provide their opinions through mobile application in smart phones. The speech signals are converted to text and transmitted through wireless to the robotic model. The wireless receiver modem obtains the data and sends to the controller. The controller transmits the data to perform the user speech data in writing using stepper motor and mechanical design. Thus the writing robot could reduce the time and efforts for the end users.  
+Programming Controller
+
+Writing Robot
