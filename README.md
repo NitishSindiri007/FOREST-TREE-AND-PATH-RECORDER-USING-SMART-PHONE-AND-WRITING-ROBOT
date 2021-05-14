@@ -1,6 +1,8 @@
 ## Abstract
 In this project the moving path covered by the user in forests area is recorded in the near by camp. In this we have a forest way instruction recorder using voice recognition used to record the path covered by the user and send the data of path to the near by camp using bluetooth.Previously XY Plotter is entirely dependent on older CNC Machines. These machines are capable to write and draw the critical structures with the exact output. Now with the help of Arduino Nano controller, CNC shield driver with stepper motors, servo motor makes the entire process complete with promising results.
 
+![GitHub Logo](/Images/usecase.png)
+
 ## Introduction
 
 Speech inputs are the most vital aspect for establishing communication between humans. 90% of communication uses voice mode for interacting with others. Large availability of good quality microphones help in transforming the speech signals to electrical form. Speech recognition algorithm, techniques can able to convert the speech inputs into text. Many external api are available to convert the speech to text with reliable outputs. The speech based robotic control is a current research area in which several organization are innovating new robots and automation systems to provide effective user experience. The most common research areas are car automation, healthcare, military and defense, education, surveillance, drones, home automation in which robotics have a major role to play. 
